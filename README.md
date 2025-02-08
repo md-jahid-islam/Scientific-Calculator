@@ -15,4 +15,7 @@ Battery Saving: Efficient power management for extended use.
 User-Friendly: Simple, intuitive interface for all skill levels.
 Ideal for both students and professionals, our scientific calculator makes solving equations and complex formulas easier than ever before. Perfect for math, engineering, finance, and more.
 Would this work for you? Feel free to tweak it as needed!
+
+
+
 Author: md Jahidul Islam
